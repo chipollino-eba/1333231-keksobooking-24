@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Вадим Шамшин](https://up.htmlacademy.ru/javascript/24/user/1333231).
-* Наставник: `Неизвестно`.
+* Наставник: `[Андрей Устименко]` (https://htmlacademy.ru/profile/spiritmoon).
 
 ---
 
